@@ -1,10 +1,10 @@
-# Willkommen bei Lectures Information Systems (MIS - Hochschule Pforzheim)
+# Willkommen bei Lectures Information Systems
 
-Herzlich willkommen in der offiziellen GitHub Organisation für den Masterstudiengang Information Systems (MIS) an der Hochschule Pforzheim!
+Herzlich willkommen in der offiziellen GitHub Organisation für den Bachelorstudiengang Wirtschaftsinformatik (WI) und den Masterstudiengang Information Systems (MIS) an der Hochschule Pforzheim!
 
 ## Ziel dieser Organisation
 
-Diese Plattform dient als zentraler Ort für die **Zusammenarbeit zwischen Studierenden und Lehrenden** im Rahmen des MIS-Studiums. Hier sollen Materialien, Code-Beispiele, Projekte und Diskussionen rund um die Lehrveranstaltungen gebündelt werden.
+Diese Plattform dient als zentraler Ort für die **Zusammenarbeit zwischen Studierenden und Lehrenden** im Rahmen des Studiums. Hier sollen Materialien, Code-Beispiele, Projekte und Diskussionen rund um die Lehrveranstaltungen gebündelt werden.
 
 ## Was Sie hier finden
 
