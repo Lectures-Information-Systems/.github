@@ -1,4 +1,4 @@
-# Willkommen bei Lectures Information Systems
+# Willkommen bei Information Systems - Lectures
 
 Herzlich willkommen in der offiziellen GitHub Organisation für den Bachelorstudiengang Wirtschaftsinformatik (WI) und den Masterstudiengang Information Systems (MIS) an der Hochschule Pforzheim!
 
